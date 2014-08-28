@@ -1,0 +1,8 @@
+My schedule just got a lot more hectic due to a major 
+personal event. We are going to need to more explicitly plan
+this website out. Just to clarify I really want to finish this
+project. But we need a plan to build the site or at least the
+wireframe. Like some kind of master plan so that we know we're
+behind schedule. Also we should decide on some place where we can 
+send desync messages. Whether that's fb or steam or trello, we
+need some place where we know we should check messages daily.
